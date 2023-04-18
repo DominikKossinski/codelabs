@@ -20275,7 +20275,7 @@ Polymer({
           index = '';
         }
         // navigate away to the index page
-        window.location.href = '' + index;
+        window.location.href = '/' + index;
       },
 
       _tocItemClass: function(selected, i) {
