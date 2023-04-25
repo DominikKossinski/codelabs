@@ -282,6 +282,7 @@ h4 {
 
 body {
   background: #ECEFF1;
+  height: 100%;
 }
 
 body.view #banner {

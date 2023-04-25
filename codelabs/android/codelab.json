@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-04-25T22:39:06+02:00",
+  "id": "android",
+  "duration": 0,
+  "title": "Android example",
+  "authors": "Dominik Kossiński",
+  "summary": "Android example",
+  "source": "android-example.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "android"
+  ],
+  "tags": [
+    "hard1"
+  ],
+  "url": "android"
+}
